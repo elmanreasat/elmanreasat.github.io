@@ -1,5 +1,5 @@
 body {
-	background-color:#ced8e2;
+	background-color:#000000;
 }
 
 #header {
@@ -8,6 +8,7 @@ body {
 }
 
 #body {
+	background-color:#ced8e2;
 	text-align: center;
 }
 
