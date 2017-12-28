@@ -1,5 +1,5 @@
 body {
-	background-color:#ced8e2;
+	background-color:#e5b2ff;
 }
 
 #header {
@@ -7,12 +7,19 @@ body {
  text-align: center;
 }
 
+#container {
+	background-color: white;
+	width: 900px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
 #body {
 	text-align: center;
 }
 
 #links {
-	text-align: center;
+	text-align: center; 
 }
 
 #hack {
@@ -20,6 +27,6 @@ body {
 }
 
 #images {
-	background-color:#000000;
+	background-color: #000000;
 	text-align: center;
 }
